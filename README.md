@@ -7,14 +7,22 @@ all of konwhow located on readme doc
 ### 🔭 正在进行的项目
 这里专门用来介绍那些无法置顶的**私有或内部项目**：
 
-- **项目A**：Note。  
+- **项目A**：Note
+
   *项目简介、我的职责、技术栈...*  
   [*（由于是私有仓库，此处无法展示代码统计）*]
-  *(https://github.com/zhonguochong/note)*
+  *🔗 https://github.com/zhonguochong/note*
 
-- **项目B**：AIAgent。  
-  *项目简介、我的角色、遇到的挑战...*  
+- **项目B**：MeetingAIFunctions
+
+  *项目简介、我的职责、技术栈...*  
+  [*（由于是私有仓库，此处无法展示代码统计）*]
+  *🔗 https://github.com/zhonguochong/MeetingAIFunctions*
+
+
+
   *🔗 [查看项目演示](https://demo.example.com)*
+  
 
 ### 🌟 开源贡献与公开项目
 以下是我参与或创建的公开项目，欢迎交流：
