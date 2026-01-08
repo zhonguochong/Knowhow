@@ -19,9 +19,13 @@ all of konwhow located on readme doc
   [*（由于是私有仓库，此处无法展示代码统计）*]
   *🔗 https://github.com/zhonguochong/MeetingAIFunctions*
 
+- **项目C**：YoloxMe
 
+  *项目简介、我的职责、技术栈...*  
+  [*（由于是私有仓库，此处无法展示代码统计）*]
+  *🔗 https://github.com/zhonguochong/yoloxMe*
 
-  *🔗 [查看项目演示](https://demo.example.com)*
+ 
   
 
 ### 🌟 开源贡献与公开项目
