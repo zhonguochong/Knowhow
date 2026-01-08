@@ -7,11 +7,12 @@ all of konwhow located on readme doc
 ### 🔭 正在进行的项目
 这里专门用来介绍那些无法置顶的**私有或内部项目**：
 
-- **项目A**：一个用Python和FastAPI开发的内部管理系统。  
+- **项目A**：Note。  
   *项目简介、我的职责、技术栈...*  
-  *（由于是私有仓库，此处无法展示代码统计）*
+  [*（由于是私有仓库，此处无法展示代码统计）*]
+  *(https://github.com/zhonguochong/note)*
 
-- **项目B**：一个React Native移动应用。  
+- **项目B**：AIAgent。  
   *项目简介、我的角色、遇到的挑战...*  
   *🔗 [查看项目演示](https://demo.example.com)*
 
