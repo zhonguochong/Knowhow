@@ -31,6 +31,12 @@ all of konwhow located on readme doc
   [*（由于是私有仓库，此处无法展示代码统计）*]
   *🔗 https://github.com/zhonguochong/AIAgentMe*
   
+ - **项目E**：jpDefectDetection
+
+  *项目简介、我的职责、技术栈...*  
+  [*（由于是私有仓库，此处无法展示代码统计）*]
+  *🔗 https://github.com/zhonguochong/jpDefectDetection*
+
 
 
 ### 🌟 开源贡献与公开项目
